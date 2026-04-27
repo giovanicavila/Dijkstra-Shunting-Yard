@@ -1,4 +1,3 @@
-
 def tokenize(expr: str):
     tokens = []
     current_number = ""
